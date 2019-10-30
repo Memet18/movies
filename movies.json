@@ -1,13 +1,12 @@
 [
 		{
 			"title" : "The Shawshank Redemption",
-			
+			"year" : 1994,
 			"genre" : [
 				"Drama"
 			],
 			"director" : " Frank Darabont",
-			"year" : 1994,
-			"desription" : "Two imprisoned men bond over a number of years, finding solace and eventual redemption through acts of common decency.",
+		        "desription" : "Two imprisoned men bond over a number of years, finding solace and eventual redemption through acts of common decency.",
 			"image" : "https://m.media-amazon.com/images/M/MV5BMDFkYTc0MGEtZmNhMC00ZDIzLWFmNTEtODM1ZmRlYWMwMWFmXkEyXkFqcGdeQXVyMTMxODk2OTU@._V1_.jpg"
 		},
 		{
